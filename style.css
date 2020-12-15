@@ -1,0 +1,38 @@
+body 
+{
+    background-image: url('https://wallpaperaccess.com/full/822481.jpg');
+}
+
+button {
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #BF94E4;
+  color: white;
+  font-size: 16px;
+  padding: 16px 130px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+  text-align: center;
+}
+
+#quote{
+    height: 650px;
+    width: 350px;
+    background: #FBAED2;
+    opacity: 0.5;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

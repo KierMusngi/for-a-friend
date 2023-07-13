@@ -84,7 +84,7 @@ var quotes = [
     "Success isn’t always about greatness. It’s about consistency. Consistent hard work leads to success. Greatness will come.",
     "Forget the past and live in the present hour.",
     "Nothing is a mistake. There’s no win and no fail. There’s only make.",
-    "he more you eliminate the inefficient use of information, the better it is for productivity.",
+    "The more you eliminate the inefficient use of information, the better it is for productivity.",
     "If you’re going through hell, keep going.",
     "Nothing is less productive than to make more efficient what should not be done at all.",
     "I need not wait for I have the power to choose my own destiny.",

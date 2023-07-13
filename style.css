@@ -1,6 +1,6 @@
 body 
 {
-    background-image: url('https://wallpaperaccess.com/full/822481.jpg');
+    background-image: url('https://wallpapers.com/images/hd/flower-drawing-2jwzzcdnpsfbsyfg.jpg');
 }
 
 button {
@@ -12,7 +12,7 @@ button {
   background-color: #BF94E4;
   color: white;
   font-size: 16px;
-  padding: 16px 130px;
+  padding: 16px 16px;
   border: none;
   cursor: pointer;
   border-radius: 50px;
@@ -23,7 +23,7 @@ button {
     height: 650px;
     width: 350px;
     background: #FBAED2;
-    opacity: 0.5;
+    opacity: 0.8;
     border-radius: 15px;
     display: flex;
     flex-direction: column;
